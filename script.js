@@ -1,1 +1,3 @@
-console.log('Crash game loaded');
+
+// Placeholder for Crash game logic
+console.log("StakeHive Crash Game - Placeholder");
