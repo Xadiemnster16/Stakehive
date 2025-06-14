@@ -1,8 +1,10 @@
 {
-  "name": "stakehive-crash",
+  "name": "stakehive",
   "version": "1.0.0",
-  "main": "index.html",
+  "description": "StakeHive crash game frontend",
   "scripts": {
-    "start": "live-server"
-  }
+    "start": "echo 'Deploying static site...'"
+  },
+  "author": "Amafa Ayomide",
+  "license": "MIT"
 }
