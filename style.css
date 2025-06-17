@@ -1,0 +1,39 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #111;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header {
+  width: 100%;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #222;
+}
+.logo {
+  height: 40px;
+}
+.balance {
+  font-size: 1.2rem;
+}
+button {
+  background: #ff0033;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+main {
+  padding: 2rem;
+}
+.crash-screen {
+  margin-top: 2rem;
+  font-size: 2rem;
+}
